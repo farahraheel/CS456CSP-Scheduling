@@ -1,0 +1,10 @@
+6/21/2025, 6:33:06 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'M.description' in 'field list'
+----------------------------
+6/21/2025, 6:33:13 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'M.description' in 'field list'
+----------------------------
+6/21/2025, 6:37:19 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'M.description' in 'field list'
+----------------------------
+6/21/2025, 11:14:13 PM 	 Route /favicon.ico not exist
+----------------------------
+6/22/2025, 12:32:45 AM 	 Route /api/meetings not exist
+----------------------------

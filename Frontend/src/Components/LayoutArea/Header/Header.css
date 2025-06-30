@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.Header > h1 {
+	font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    background: -webkit-linear-gradient( rgb(245, 222, 181), rgb(235, 192, 112), rgb(222, 93, 118),  rgb(200, 54, 83));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

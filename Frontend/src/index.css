@@ -1,0 +1,10 @@
+html, body, #root {
+    height: 100%;
+    text-align: center;
+    background-image: url(./Assets/Images/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color:rgba(152, 35, 70, 0.939);
+}

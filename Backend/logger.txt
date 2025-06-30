@@ -1,0 +1,109 @@
+12/6/2022, 11:22:49 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 11:22:54 AM 	 Route /manifest.json not exist
+----------------------------
+12/6/2022, 11:22:54 AM 	 Route /favicon.ico not exist
+----------------------------
+12/6/2022, 11:22:55 AM 	 Route /favicon.ico not exist
+----------------------------
+12/6/2022, 11:22:55 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 11:22:59 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 11:23:03 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 11:23:12 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 11:23:29 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 11:24:02 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 11:25:07 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 11:27:16 AM 	 Route /ws not exist
+----------------------------
+12/6/2022, 1:37:46 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+12/6/2022, 1:37:52 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+12/6/2022, 1:40:59 PM 	 ER_BAD_NULL_ERROR: Column 'teamId' cannot be null
+----------------------------
+12/6/2022, 1:41:14 PM 	 ER_BAD_NULL_ERROR: Column 'teamId' cannot be null
+----------------------------
+12/6/2022, 1:42:34 PM 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+12/6/2022, 1:42:58 PM 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`meetingschedule`.`meetings`, CONSTRAINT `meetings_ibfk_1` FOREIGN KEY (`teamId`) REFERENCES `teams` (`id`) ON DELETE CASCADE)
+----------------------------
+12/6/2022, 1:55:33 PM 	 Route /api/meetings/ not exist
+----------------------------
+12/6/2022, 2:37:03 PM 	 Route /api/meetingsNaN not exist
+----------------------------
+12/6/2022, 2:37:19 PM 	 Route /api/meetingsNaN not exist
+----------------------------
+12/6/2022, 2:38:12 PM 	 Route /api/meetingsNaN not exist
+----------------------------
+12/6/2022, 2:38:35 PM 	 Route /api/meetingsNaN not exist
+----------------------------
+12/6/2022, 2:39:52 PM 	 Route /api/meetings3 not exist
+----------------------------
+12/6/2022, 2:40:01 PM 	 Route /api/meetings2 not exist
+----------------------------
+12/6/2022, 2:40:22 PM 	 Route /api/meetings1 not exist
+----------------------------
+12/6/2022, 3:40:13 PM 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2022-12-06T09:45:21.000Z'' AND endTime <= ''2022-12-06T09:45:21.000Z'')
+     ...' at line 2
+----------------------------
+12/6/2022, 6:23:12 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+12/6/2022, 6:27:04 PM 	 Route /main.ff7eba3ae010f2a6dbed.hot-update.json not exist
+----------------------------
+12/6/2022, 6:27:04 PM 	 Route /list not exist
+----------------------------
+12/6/2022, 6:27:05 PM 	 Route /list not exist
+----------------------------
+12/6/2022, 6:27:06 PM 	 Route /list not exist
+----------------------------
+12/6/2022, 6:27:06 PM 	 Route /list not exist
+----------------------------
+12/6/2022, 6:27:06 PM 	 Route /list not exist
+----------------------------
+12/6/2022, 6:27:08 PM 	 Route /list not exist
+----------------------------
+12/6/2022, 6:57:25 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'startOfMeeting' in 'field list'
+----------------------------
+12/6/2022, 6:57:35 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'startOfMeeting' in 'field list'
+----------------------------
+12/6/2022, 6:58:03 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'T.teamName' in 'field list'
+----------------------------
+12/6/2022, 6:58:04 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'T.teamName' in 'field list'
+----------------------------
+12/6/2022, 6:58:17 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'T.teamId' in 'on clause'
+----------------------------
+12/6/2022, 7:26:51 PM 	 Route /api/meetings19 not exist
+----------------------------
+12/6/2022, 7:26:58 PM 	 Route /api/meetings19 not exist
+----------------------------
+12/6/2022, 7:27:17 PM 	 Route /api/meetings19 not exist
+----------------------------
+12/6/2022, 7:28:13 PM 	 Route /api/meetings19 not exist
+----------------------------
+12/6/2022, 7:29:16 PM 	 Route /api/meetings19 not exist
+----------------------------
+12/6/2022, 7:31:45 PM 	 Route /api/meetings19 not exist
+----------------------------
+12/6/2022, 7:31:58 PM 	 Route /api/meetings9 not exist
+----------------------------
+12/6/2022, 7:33:54 PM 	 Route /api/meetings19 not exist
+----------------------------
+12/6/2022, 7:34:49 PM 	 Route /api/meetings19 not exist
+----------------------------
+12/7/2022, 10:23:53 AM 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`meetingschedule`.`meetings`, CONSTRAINT `meetings_ibfk_1` FOREIGN KEY (`teamId`) REFERENCES `teams` (`id`) ON DELETE CASCADE)
+----------------------------
+6/21/2025, 6:10:20 PM 	 ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: NO)
+----------------------------
+6/21/2025, 6:10:20 PM 	 ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: NO)
+----------------------------
+6/21/2025, 6:14:53 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'M.description' in 'field list'
+----------------------------
+6/21/2025, 6:15:12 PM 	 ER_BAD_FIELD_ERROR: Unknown column 'M.description' in 'field list'
+----------------------------

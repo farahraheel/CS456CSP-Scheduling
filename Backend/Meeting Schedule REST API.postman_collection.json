@@ -1,0 +1,101 @@
+{
+	"info": {
+		"_postman_id": "5d5f0a84-7919-4e90-a473-6ce9db5d111f",
+		"name": "Meeting Schedule REST API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23516147"
+	},
+	"item": [
+		{
+			"name": "Get all teams",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/teams",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"teams"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get all meeting by team",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/meetings/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"meetings",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add new meeting",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": " {\r\n        \"teamId\": 3,\r\n        \"startTime\": \"2025-12-07T09:45:21.000Z\",\r\n        \"endTime\": \"2025-12-07T09:45:21.000Z\",\r\n        \"description\": \"urgent meeting\",\r\n        \"room\": \"RED\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/api/meetings",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"meetings"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete meeting",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/meetings/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"meetings",
+						"4"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
