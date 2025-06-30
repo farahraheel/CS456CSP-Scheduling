@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meeting Schedule Project
 ## The project based on: React, Node.js+express, MySQL 
 
@@ -39,3 +40,6 @@ OR
 Go to: http://localhost:3000/
 
 ## Enjoy!
+=======
+# CS456CSP-Scheduling
+>>>>>>> a4bd91cf1fd8835312089d9f5cc2611b475c7e71
